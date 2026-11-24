@@ -1,0 +1,49 @@
+{
+  "sarcastic_mock": [
+    "sarcastic_mock/setar_1_hatef_1.wav",
+    "sarcastic_mock/setar_2_hatef_2.wav",
+    "sarcastic_mock/santoor_1_dulcimer2.wav",
+    "sarcastic_mock/tar_1_shahnaz_1.wav",
+    "sarcastic_mock/combo_1_tarighe_eshgh.wav",
+    "sarcastic_mock/combo_2_kamancheh_santour.wav"
+  ],
+  "cold_contempt": [
+    "cold_contempt/kamancheh_1_fiddle1.wav",
+    "cold_contempt/kamancheh_2_fiddle2.wav",
+    "cold_contempt/tar_2_shahnaz_2.wav",
+    "cold_contempt/tar_3_shahnaz_3.wav",
+    "cold_contempt/combo_3_achaemenid_1.wav",
+    "cold_contempt/combo_4_pish_zanguleh.wav"
+  ],
+  "regretful_sigh": [
+    "regretful_sigh/ney_1_kasaii_1.wav",
+    "regretful_sigh/ney_2_kasaii_2.wav",
+    "regretful_sigh/ney_3_taleshi.wav",
+    "regretful_sigh/setar_3_beman.wav",
+    "regretful_sigh/combo_5_shor.wav",
+    "regretful_sigh/combo_6_sonati_1.wav"
+  ],
+  "melancholic": [
+    "melancholic/kamancheh_3_fiddle3.wav",
+    "melancholic/kamancheh_4_fiddle4.wav",
+    "melancholic/kamancheh_5_fiddle5.wav",
+    "melancholic/ney_4_kasaii_3.wav",
+    "melancholic/setar_4_khamosh.wav",
+    "melancholic/combo_7_gole_nishan.wav"
+  ],
+  "epic_scolding": [
+    "epic_scolding/ney_5_salam_4gah.wav",
+    "epic_scolding/tar_4_shahnaz_4.wav",
+    "epic_scolding/tar_5_shahnaz_5.wav",
+    "epic_scolding/combo_8_achaemenid_2.wav",
+    "epic_scolding/combo_9_koli_dar_bad.wav"
+  ],
+  "calm_wisdom": [
+    "calm_wisdom/setar_5_khial.wav",
+    "calm_wisdom/santoor_2_dulcimer1.wav",
+    "calm_wisdom/santoor_3_dulcimer4.wav",
+    "calm_wisdom/santoor_4_dulcimer.wav",
+    "calm_wisdom/santoor_5_solo_santur.wav",
+    "calm_wisdom/combo_10_sonati_2.wav"
+  ]
+}
